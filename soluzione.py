@@ -60,7 +60,7 @@ history = network.fit(X_train,
 
 ## SECOND PART
 
-
+!python3 -m pip install seaborn
 
 from sklearn.metrics import classification_report
 from sklearn.metrics import confusion_matrix,ConfusionMatrixDisplay
