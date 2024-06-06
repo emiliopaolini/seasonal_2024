@@ -1,0 +1,5 @@
+git clone https://github.com/emiliopaolini/seasonal_2024.git
+
+open VS code - file - open folder - "Home/seasonal_2024"
+
+Select "Trust the authors of all files..." and then "Yes, I trust the authors"
